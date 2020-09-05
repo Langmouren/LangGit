@@ -10,5 +10,6 @@ package com.lang;
 public class HelloGit {
     public static void main(String[] args){
         System.out.println("浪某人爱你Git");
+        System.out.println("浪轩也爱你Git啊");
     }
 }
