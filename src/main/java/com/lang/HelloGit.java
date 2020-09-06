@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("浪轩在主干添加内容");
         System.out.println("分支操作添加");
         System.out.println("浪轩在线更新");
+        System.out.println("浪轩新建的Dev  分支 ，不要乱搞哦");
     }
 }
